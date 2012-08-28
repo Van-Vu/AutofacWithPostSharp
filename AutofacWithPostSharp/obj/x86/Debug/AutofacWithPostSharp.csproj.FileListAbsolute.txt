@@ -1,0 +1,14 @@
+E:\Self-Study\Tech\Dependency Injection\AutofacWithPostSharp\AutofacWithPostSharp\bin\Debug\AutofacWithPostSharp.exe
+E:\Self-Study\Tech\Dependency Injection\AutofacWithPostSharp\AutofacWithPostSharp\bin\Debug\AutofacWithPostSharp.pdb
+E:\Self-Study\Tech\Dependency Injection\AutofacWithPostSharp\AutofacWithPostSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Self-Study\Tech\Dependency Injection\AutofacWithPostSharp\AutofacWithPostSharp\obj\x86\Debug\AutofacWithPostSharp.exe
+E:\Self-Study\Tech\Dependency Injection\AutofacWithPostSharp\AutofacWithPostSharp\obj\x86\Debug\AutofacWithPostSharp.pdb
+E:\Self-Study\Tech\Dependency Injection\AutofacWithPostSharp\AutofacWithPostSharp\bin\Debug\PostSharp.dll
+E:\Self-Study\Tech\Dependency Injection\AutofacWithPostSharp\AutofacWithPostSharp\bin\Debug\PostSharp.xml
+E:\Self-Study\Tech\Dependency Injection\AutofacWithPostSharp\AutofacWithPostSharp\bin\Debug\AutofacWithPostSharp.pssym
+E:\Self-Study\Tech\Dependency Injection\AutofacWithPostSharp\AutofacWithPostSharp\obj\x86\Debug\AutofacWithPostSharp.exe.postsharp
+E:\Self-Study\Tech\Dependency Injection\AutofacWithPostSharp\AutofacWithPostSharp\bin\Debug\Autofac.Configuration.dll
+E:\Self-Study\Tech\Dependency Injection\AutofacWithPostSharp\AutofacWithPostSharp\bin\Debug\Autofac.dll
+E:\Self-Study\Tech\Dependency Injection\AutofacWithPostSharp\AutofacWithPostSharp\bin\Debug\Autofac.xml
+E:\Project\DevFun\AutofacWithPostSharp\AutofacWithPostSharp\obj\x86\Debug\AutofacWithPostSharp.exe
+E:\Project\DevFun\AutofacWithPostSharp\AutofacWithPostSharp\obj\x86\Debug\AutofacWithPostSharp.pdb

@@ -1,0 +1,55 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Entity/f:BundleType.cs" caret="214" fromTop="13" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Entity/f:OfferType.cs" caret="161" fromTop="8" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Aspect/f:Create.cs" caret="0" fromTop="0" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Aspect/f:Formatter.cs" caret="1532" fromTop="18" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:BusService/f:IProductionService.cs" caret="347" fromTop="15" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Data/f:IBundleData.cs" caret="241" fromTop="11" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Data/f:PolicyData.cs" caret="210" fromTop="9" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Data/f:IPolicyData.cs" caret="241" fromTop="11" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Data/f:IProductData.cs" caret="265" fromTop="11" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Entity/f:Product.cs" caret="444" fromTop="19" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Entity/f:Policy.cs" caret="285" fromTop="10" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Entity/f:Bundle.cs" caret="300" fromTop="13" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Data/f:BundleData.cs" caret="342" fromTop="14" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Aspect/f:Trace.cs" caret="869" fromTop="26" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Aspect/f:ExceptionDialogAttribute.cs" caret="957" fromTop="22" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:BusService/f:ProductionService.cs" caret="857" fromTop="25" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Data/f:ProductData.cs" caret="211" fromTop="9" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Aspect/f:CacheAttribute.cs" caret="1464" fromTop="8" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/f:Program.cs" caret="345" fromTop="8" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Aspect/f:CacheAttribute.cs" caret="1552" fromTop="22" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Aspect/f:Trace.cs" caret="204" fromTop="10" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Aspect/f:ExceptionDialogAttribute.cs" caret="752" fromTop="18" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Aspect/f:ExceptionDialogAttribute.cs" caret="15" fromTop="1" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/f:Program.cs" caret="1186" fromTop="30" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:BusService/f:IProductionService.cs" caret="347" fromTop="15" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:BusService/f:ProductionService.cs" caret="1661" fromTop="13" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:BusService/f:ProductionService.cs" caret="1661" fromTop="18" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:BusService/f:ProductionService.cs" caret="1661" fromTop="22" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:BusService/f:ProductionService.cs" caret="1661" fromTop="18" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:BusService/f:ProductionService.cs" caret="1661" fromTop="22" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:BusService/f:ProductionService.cs" caret="1664" fromTop="28" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Data/f:BundleData.cs" caret="306" fromTop="13" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Data/f:IBundleData.cs" caret="0" fromTop="0" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Data/f:IPolicyData.cs" caret="0" fromTop="0" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Data/f:IPolicyData.cs" caret="241" fromTop="11" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Data/f:IBundleData.cs" caret="241" fromTop="11" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Data/f:BundleData.cs" caret="210" fromTop="9" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Data/f:PolicyData.cs" caret="210" fromTop="9" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Data/f:IProductData.cs" caret="265" fromTop="11" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/f:Program.cs" caret="1121" fromTop="20" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/f:Program.cs" caret="655" fromTop="18" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Data/f:ProductData.cs" caret="211" fromTop="9" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:BusService/f:ProductionService.cs" caret="1661" fromTop="16" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:BusService/f:ProductionService.cs" caret="1661" fromTop="14" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:BusService/f:ProductionService.cs" caret="505" fromTop="14" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/f:Program.cs" caret="961" fromTop="26" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Aspect/f:Trace.cs" caret="780" fromTop="21" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:Aspect/f:Trace.cs" caret="869" fromTop="26" />
+    <File id="EA24E1DF-663E-4781-BDA3-95A625A2478B/d:BusService/f:ProductionService.cs" caret="857" fromTop="25" />
+  </RecentEdits>
+</RecentFiles>
